@@ -1,0 +1,41 @@
+<!DOCTYPE TS><TS>
+<context>
+    <name>VersionUp</name>
+    <message>
+        <source>version_up_title</source>
+        <translation>Firmware Update</translation>
+    </message>
+    <message>
+        <source>Machine</source>
+        <translation>Machine</translation>
+    </message>
+    <message>
+        <source>M</source>
+        <translation>M</translation>
+    </message>
+    <message>
+        <source>K</source>
+        <translation>K</translation>
+    </message>
+    <message>
+        <source>A</source>
+        <translation>A</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation>Finished</translation>
+    </message>
+    <message>
+        <source>Running</source>
+        <translation>Running</translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation>Pending</translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation>Failed</translation>
+    </message>
+</context>
+</TS>

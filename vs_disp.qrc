@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/translate/vs_disp_jp.qm</file>
+    </qresource>
+</RCC>
